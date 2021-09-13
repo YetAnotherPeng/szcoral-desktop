@@ -1,0 +1,1 @@
+# szcoral-desktop
